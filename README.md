@@ -11,12 +11,15 @@
 
 <h2>Execution</h2>
 Make sure you have all the requirements installed and dataset downloaded (At least the FSC147 dataset).
-Then, navigate to 
-```
-dataset
-``` 
-folder
+Then, navigate to dataset folder.
+Run
 
+```
+python create_random_images.py
+```
+feel free to change the parameters in the script.
+
+Then, back to the prject folder and run:
 ```
 python main-fsc147.py --test-split='test' --prompt-type='box' --device='cuda:0'
 ```

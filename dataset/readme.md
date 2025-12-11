@@ -1,0 +1,1 @@
+Please download the FSC dataset here, and move the create_random_images.py script to the FSC dataset folder!
