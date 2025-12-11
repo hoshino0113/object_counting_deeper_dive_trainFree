@@ -1,4 +1,9 @@
 <h1>A Study on Prompt Sensitivity Using SAM</h1>
+Authors:<br>
+Alan(Xinglin) Zhong <br>
+Aravind Thiagarajan <br>
+Ayush Alpeshbhai Patel <br>
+
 <h2> Introduction</h2>
 This project investigates the robustness of training-free, prompt-guided object counting systems. By introducing controlled errors into bounding box, point, and text prompts, we evaluate how prompt noise affects counting accuracy and identify key failure modes in segmentation-based approaches.
 
@@ -40,4 +45,5 @@ MAE:5.50,RMSE:9.27,NAE:0.38,SRE:2.66
 <h2> Acknowledgement </h2>
 We are greatly thankful to our supervisor Dr.Garima Bajwa, for her unbounded support and guidance. <br>
 We are greatful to Zenglin Shi, Ying Sun, Mengmi Zhang, original authors of research paper Training-free Object Counting with Prompts, for their hardworks<br>
-You can find their research paper here <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf" target="_blank">Training-free Object Counting with Prompts</a>
+You can find their research paper here <a href="https://openaccess.thecvf.com/content/WACV2024/papers/Shi_Training-Free_Object_Counting_With_Prompts_WACV_2024_paper.pdf" target="_blank">Training-free Object Counting with Prompts</a> <br>
+And we are greatful to you, our readers, for your attentions and love!<br>
