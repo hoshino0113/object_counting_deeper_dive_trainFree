@@ -11,9 +11,11 @@
 
 <h2>Execution</h2>
 Make sure you have all the requirements installed and dataset downloaded (At least the FSC147 dataset).
-Then, navigate to ```
-dataset/
-``` folder
+Then, navigate to 
+```
+dataset
+``` 
+folder
 
 ```
 python main-fsc147.py --test-split='test' --prompt-type='box' --device='cuda:0'
