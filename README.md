@@ -1,4 +1,6 @@
 <h1>A Study on Prompt Sensitivity Using SAM</h1>
+<h2> Introduction</h2>
+This project investigates the robustness of training-free, prompt-guided object counting systems. By introducing controlled errors into bounding box, point, and text prompts, we evaluate how prompt noise affects counting accuracy and identify key failure modes in segmentation-based approaches.
 
 <h2> Installation </h2>
 1. The code requires python>=3.8, as well as pytorch>=1.7 and torchvision>=0.8. <br>
